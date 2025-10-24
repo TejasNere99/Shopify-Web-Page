@@ -20,7 +20,18 @@ The design aims to replicate the modern, elegant shopping experience of premium 
 ---
 
 ## ⚙ Folder Structure
-📦 shopify-product-page/ ├── index.html ├── css/ │   └── style.css ├── js/ │   └── script.js └── assets/ ├── product1.jpg ├── product2.jpg ├── product3.jpg └── icons/ └── cart.png
+
+shopify-product-page/
+│
+├── index.html
+│
+├── css/
+│ └── style.css
+│
+├── js/
+│ └── script.js
+│
+└── assets
 
 ---
 
